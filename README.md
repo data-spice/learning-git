@@ -1,6 +1,6 @@
 # Learning HTML & CSS
 This repository contains my practice projects and notes while learning **HTML** and **CSS**.  
-The goal is to build a strong foundation in front-end web development by exploring the basics of web structure and styling.
+The goal is to build a strong foundation in front-end web development by exploring the basics of web structure and styling for websites.
 
 ![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/78014627-a106-4957-9977-cc8632f91904)
 
